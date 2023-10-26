@@ -1,0 +1,2 @@
+vm_username=some_username
+vm_password=SomeRe@llySecureP@ssw0rdToNotUseIn2021
